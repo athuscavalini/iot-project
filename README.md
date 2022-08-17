@@ -7,7 +7,7 @@
 - Módulo LoRa Ra-01 Ai Thiker;
 - Conta na plataforma Thinger.io;
 
-O esquemático para conectar o ESP ao módulo LoRa está na imagem esquema.png.
+O esquemático para conectar o ESP ao módulo LoRa está na imagem `esquema.png`.
 
 ### Para utilizar:
 
